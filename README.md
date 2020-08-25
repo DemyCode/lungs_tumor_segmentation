@@ -1,1 +1,0 @@
-# lungs_tumor_segmentation
